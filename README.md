@@ -10,8 +10,7 @@ can be used on any set of bat files without much configurations
 
 # How to use
 1. Place the .exe file to the folder it is intended on being used
-2. 
-3. launch and it will create a hashrates text file that has all the hashrates of your files
+2. launch and it will create a hashrates text file that has all the hashrates of your files
 
 
 # How it works

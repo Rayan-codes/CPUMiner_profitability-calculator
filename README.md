@@ -8,12 +8,12 @@ can be used on any set of bat files without much configurations
 
 
 
-#How to use
+# How to use
 1. Place the .exe file to the folder it is intended on being used 
 2. launch and it will create a hashrates text file that has all the hashrates of your files
 
 
-#How it works
+# How it works
 1.the minertest.cpp file first retrieves names of all the bat files from the folder it is placed in and stores them in a text file
 2.Then it iterativily runs through all of the bat files taking input from user on how much time to run the bat files(use more time for better results)
 3.it records the hashrates in a seperate text file "hashrates"

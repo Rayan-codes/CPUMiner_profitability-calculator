@@ -2,8 +2,8 @@
 CPUMiner Profitability Calculator is a tool that analyses CPU mining performance across different coins from the bat files provided and then It retrieves Hash rates from various miners, fetches real-time coin prices and rewards from multiple APIs, and calculates potential earnings. This helps users estimate profitability without wasting time. 
 
 as you know cpu mining is now not posible on high market cap cryptocurrencies like bitcoin,litecoin
-and if you dont have a powerfull enough cpu monero. this tool contains micro cap cryptos that are somewhat 
-feaseble to mine with somewhat reasonable hardware from small minepools like https://rplant.xyz however it 
+and if you dont have a powerfull enough cpu monero. this tool can help you get hashrates of micro cap cryptos that are somewhat 
+feaseble to mine with somewhat reasonable hardware from small minepools however it 
 can be used on any set of bat files without much configurations
 
 
@@ -18,7 +18,7 @@ can be used on any set of bat files without much configurations
 2.Then it iterativily runs through all of the bat files taking input from user on how much time to run the bat files(use more time for better results)
 3.it records the hashrates in a seperate text file "hashrates"
  
-4.check any hashrate to profit calculator 
+4.check any online hashrate to profit calculator(might add in the future) 
 
 
 
